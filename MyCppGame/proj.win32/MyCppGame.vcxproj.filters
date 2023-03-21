@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="win32">
+      <UniqueIdentifier>{84a8ebd7-7cf0-47f6-b75e-d441df67da40}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="resource">
+      <UniqueIdentifier>{715254bc-d70b-4ec5-bf29-467dd3ace079}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{bb6c862e-70e9-49d9-81b7-3829a6f50471}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>win32</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AppDelegate.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\HelloWorldScene.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayScene.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="StageOneScene.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="StageTwoScene.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="StageThreeScene.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="StageFourScene.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="QuizOneScene.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="StageFourAnswerScene.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="QuizTwoScene.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="QuizOneAnswerScene.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="QuizThreeScene.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="QuizTwoAnswerScene.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="QuizThreeAnswerScene.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="QuizFourScene.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="QuizFinalScene.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="QuizFourAnswerScene.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="StageThreeClearScene.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="StageThreeGameOverScene.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="MaskSuccessScene.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="BreadSuccessScene.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="BreadFailScene.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="InfoOneScene.cpp" />
+    <ClCompile Include="InfoTwoScene.cpp" />
+    <ClCompile Include="InfoThreeScene.cpp" />
+    <ClCompile Include="InfoFourScene.cpp" />
+    <ClCompile Include="OneGuideScene.cpp" />
+    <ClCompile Include="TwoGuideScene.cpp" />
+    <ClCompile Include="ThreeGuideScene.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="main.h">
+      <Filter>win32</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppDelegate.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\HelloWorldScene.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayScene.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="StageOneScene.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="StageTwoScene.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="StageThreeScene.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="StageFourScene.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="QuizOneScene.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="StageFourAnswerScene.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="QuizTwoScene.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="QuizOneAnswerScene.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="QuizThreeScene.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="QuizTwoAnswerScene.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="QuizThreeAnswerScene.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="QuizFourScene.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="QuizFinalScene.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="QuizFourAnswerScene.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="StageThreeClearScene.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="MaskSuccessScene.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="BreadSuccessScene.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="BreadFailScene.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="InfoOneScene.h" />
+    <ClInclude Include="InfoTwoScene.h" />
+    <ClInclude Include="InfoThreeScene.h" />
+    <ClInclude Include="InfoFourScene.h" />
+    <ClInclude Include="OneGuideScene.h" />
+    <ClInclude Include="TwoGuideScene.h" />
+    <ClInclude Include="ThreeGuideScene.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="game.rc">
+      <Filter>resource</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="StageThreeGameOverScene.h">
+      <Filter>src</Filter>
+    </None>
+  </ItemGroup>
+</Project>
