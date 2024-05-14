@@ -17,6 +17,19 @@ cocos2d-x를 이용하여 만든 방역수칙 게임 <br>
 
 <br>
 
+## 🕹 게임 설명
+
+![1](https://github.com/modifyingk/Quarantine-Rules-Game/assets/116068100/900d6471-daa7-4f55-a738-19f67dd1af41)
+
+![2](https://github.com/modifyingk/Quarantine-Rules-Game/assets/116068100/64f5c4ad-245d-4079-9976-b6032da524a0)
+
+![3](https://github.com/modifyingk/Quarantine-Rules-Game/assets/116068100/4301b53d-34a7-483b-84af-46634825941c)
+
+![4](https://github.com/modifyingk/Quarantine-Rules-Game/assets/116068100/fb43d4dd-86a4-41dd-ac71-133c9b9dea69)
+
+
+<br>
+
 ## 📽 프로젝트 영상
 
 https://github.com/modifyingk/Quarantine-Rules-Game/assets/116068100/9e3f2f33-0413-4608-a1cb-1c387b1d65b5
